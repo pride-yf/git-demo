@@ -13,4 +13,4 @@ hello sjtu! hello git!
 hello sjtu! hello git! 
 hello sjtu! hello git! 
 hello sjtu! hello git! 
-hello sjtu! hello git! 
+hello sjtu! hello git! hot-fix test 
